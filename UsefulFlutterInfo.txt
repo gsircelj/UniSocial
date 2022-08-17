@@ -1,0 +1,2 @@
+Provider/Consumer ... če hočeš, da se samo določen widget rebuilda. Consumer pove kateri
+widget naj se spremeni. S tem se rebuilda samo del, ki hočeš, namesto celotnega app-a

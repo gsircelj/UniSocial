@@ -1,0 +1,34 @@
+UPDATE
+ - a bo autentikacija samo z Google SignIn / Facebook, ali dam zraven tudi vpis z mail/passwordom?
+
+BUGFIX
+*- ko pride uporabnik v zaslon s kategorijami, ga že registrira v bazo, tudi če ne vnese kategorij
+
+ADD
+ - Matching sistem. Koda primerja vse uporabnike z trenutnim uporabnikom. Za vsakega uporabnika pregleda kategorije.
+Če najde isto kategorijo jo shrani v seznam in število vseh matchev npr. 3/5
+!- validate/preveri uporabnikov email pri registraciji (prej je to naredil Firebase, zdej morš sam)
+
+MISC
+ Design
+ - Sketch (za grafično oblikovajne aplikacije)
+ - Supernova Studio (avtomatsko ti pretvor iz že ustvarjene grafične oblike v kodo)
+ - najdi nekaj za UX flox !!
+ Develop 
+ - GitHub
+
+ - Stripe (za spletna plačila s karticami)
+ - CodeMagic (za release)
+
+glavne barve:
+- #2A96F4
+- #0080FF
+
+glavni fonti:
+- constantia bold ??
+- franklin gothic demi ?? 
+- gadugi bold ???
+- lucida fax ??
+- ebrima bold ???
+- Microsoft New Tai Lue bold ???
+- Myanmar Text bold ???
