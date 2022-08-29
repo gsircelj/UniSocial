@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#about-the-project">About The Project</a> •
   <a href="#application">Application</a> •
-  <a href="#used-technology">Used Technology</a>
+  <a href="#used-technologies">Used Technologies</a>
 </p>  
 
 ## About The Project
@@ -27,19 +27,18 @@ This is exactly why we made UniSocial. The application makes it possible to meet
 
 ## Application
 
-<table color="white">
-  <tr>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/53914521/185614280-4ac879fa-3e52-4241-bfbf-828b0b578e7b.png"></td>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/53914521/185611682-85f675a5-b6cd-412d-b26d-9a3b5e67f786.png"></td>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/53914521/185614959-7d24555d-ab7a-47f0-91db-767af9b00d17.png"></td>
-  </tr>
-  <tr>
-    <p align="center">
-      <td><p align="center">Choose Interests and Hobbies</p align="center"></td>
-      <td>Main Page</td>
-      <td>User Profile</td>
-    </p>
-  </tr>
- </table>
+<p align="center">
+  <img alt="Light" img src="https://user-images.githubusercontent.com/53914521/185614280-4ac879fa-3e52-4241-bfbf-828b0b578e7b.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" img src="https://user-images.githubusercontent.com/53914521/185611682-85f675a5-b6cd-412d-b26d-9a3b5e67f786.png" width="25%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" img src="https://user-images.githubusercontent.com/53914521/185614959-7d24555d-ab7a-47f0-91db-767af9b00d17.png" width="25%">
+</p>
 
-## Used Technology
+
+## Used Technologies
+* Flutter Framework
+* Dart Language
+* Firebase - Main database
+* Adobe XD - Graphic design and UX
+* Visual Studio Code IDE
